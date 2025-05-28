@@ -8,4 +8,4 @@ Este proyecto fue parte del Proyecto Final Integrador del curso de Python. Desar
 ✅ Conexión a base de datos SQLite (versión 2)  
 ✅ Uso de librería `colorama` para mejorar la experiencia de usuario
 
-🔗 [Repositorio en GitHub](https://github.com/tuusuario/inventario-python)
+🔗 [Repositorio en GitHub](https://github.com/milibenitez/Sistema_de_Inventario_Python/blob/main/entrega_final.py)
